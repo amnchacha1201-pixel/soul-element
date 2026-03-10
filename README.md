@@ -16,7 +16,7 @@
 }
 
 body {
-  background: #ffffff;
+  background: #0a0a0a; 
   color: #3a3530;
   font-family: 'EB Garamond', serif;
   min-height: 100vh;
